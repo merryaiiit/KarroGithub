@@ -1,1 +1,3 @@
-testar
+public class Creature {
+	
+}
